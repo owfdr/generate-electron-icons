@@ -4,9 +4,13 @@
 
 Generate all required Electron icons from a PNG image.
 
-✅ icon.icns (windows)<br>
-✅ icon.ico (mac)<br>
-✅ [16x ~ 1024x].png<br>
+![demo gif](./assets/gene-icons-demo.gif)
+
+Following icons will be generated.
+
+- icon.icns (windows) ✓
+- icon.ico (mac) ✓
+- [16x ~ 1024x].png ✓
 
 ## Usage
 
