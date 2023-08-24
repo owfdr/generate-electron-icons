@@ -33,3 +33,9 @@ gene-icons --input <path-to-png-image>
 | `--input` | Which PNG file to use. Should be 1024x1024 | `icon.png` |
 | `--output` | Where to put generated icons | `gene-icons/` |
 | `--flatten` | Put all icons in the same folder| `false` |
+
+## 🧑‍💻 Other Apps
+
+Check out:
+
+- [Our World](https://ourworld.center/apps) (Official Website)
